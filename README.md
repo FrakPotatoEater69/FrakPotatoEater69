@@ -8,9 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-    <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="Telegram Badge"/>
-  </a>
+    <img src= "https://img.shields.io/badge/telegram-red?color=white&logo=telegram&logoColor=black" alt="Telegram Badge"/>
   
 </div>
 
