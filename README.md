@@ -8,8 +8,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <img src="https://komarev.com/ghpvc/?username=FrakBeerlover69&style=flat-square&color=blue" alt=""/>
-
+    <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  
 </div>
 
 </div>
