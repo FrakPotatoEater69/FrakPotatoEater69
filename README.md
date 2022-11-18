@@ -14,6 +14,7 @@
   
 </div>
 
+</br>
 - :telescope: I'm currently looking for a job as a Java Junior / Trainee developer
 
 ---
