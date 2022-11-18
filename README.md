@@ -9,7 +9,7 @@
   </a>
   
     <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge?color=white&logo=telegram&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge?color=white&logo=telegram&logoColor=black" alt="Telegram Badge"/>
   </a>
   
 </div>
