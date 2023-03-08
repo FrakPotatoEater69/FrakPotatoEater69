@@ -19,7 +19,7 @@
 
 ---
 
-### :hammer_and_wrench: Tech stack :
+### :hammer_and_wrench: Tech stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -27,3 +27,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
 </div>
+
+### :moyai: That's what I can:
+- [REST API](https://github.com/FrakBeerlover69/Weather-sensor-REST-API-project)
+- [WEB application](https://github.com/FrakBeerlover69/E-Library)
+<!-- - [Telegram bot](https://github.com/) -->
