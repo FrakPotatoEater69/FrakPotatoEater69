@@ -29,6 +29,6 @@
 </div>
 
 ### :moyai: That's what I can:
-- [REST API](https://github.com/FrakBeerlover69/Weather-sensor-REST-API-project)
+- [REST API application](https://github.com/FrakBeerlover69/Weather-sensor-REST-API-project)
 - [WEB application](https://github.com/FrakBeerlover69/E-Library)
 <!-- - [Telegram bot](https://github.com/) -->
