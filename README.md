@@ -32,4 +32,4 @@
 ### :moyai: That's what I can:
 - [REST API application](https://github.com/FrakBeerlover69/Weather-sensor-REST-API-project)
 - [WEB application](https://github.com/FrakBeerlover69/E-Library)
-<!-- - [Telegram bot](https://github.com/) -->
+- [Telegram bot with Anti-Spam system](https://github.com/FrakPotatoEater69/FrakPotatoEater69/ehttps://github.com/FrakPotatoEater69/YourMagicChatBot)
