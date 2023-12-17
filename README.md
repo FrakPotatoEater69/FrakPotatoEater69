@@ -22,7 +22,8 @@
 ### :hammer_and_wrench: Tech stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring"
+ width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
@@ -31,7 +32,7 @@
 </div>
 
 ### :moyai: That's what I can:
-- [Online Telegram Store Bot for Vegetable and Fruit shop](https://github.com/FrakPotatoEater69/PetrushkaProductsBot)
+- [Online Telegram Store Bot for Vegetable and Fruit shop](https://github.com/FrakPotatoEater69/PiatrushkaProductsBot)
 - [REST API application](https://github.com/FrakBeerlover69/Weather-sensor-REST-API-project)
 - [WEB application](https://github.com/FrakBeerlover69/E-Library)
 - [Telegram bot with Anti-Spam system](https://github.com/FrakPotatoEater69/YourMagicChatBot)
