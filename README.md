@@ -15,7 +15,7 @@
 </div>
 
 </br>
-- :telescope: I'm currently looking for a job as a Java developer
+- :telescope: I am currently looking for a job as a Java developer
 
 ---
 
