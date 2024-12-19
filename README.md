@@ -15,7 +15,6 @@
 </div>
 
 </br>
----
 
 ### :hammer_and_wrench: Tech stack:
 <div>
