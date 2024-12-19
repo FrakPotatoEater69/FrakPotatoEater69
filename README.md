@@ -15,8 +15,6 @@
 </div>
 
 </br>
-- :telescope: I am currently looking for a job as a Java developer
-
 ---
 
 ### :hammer_and_wrench: Tech stack:
